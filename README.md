@@ -2,6 +2,11 @@
 
 En el directorio del proyecto, puede ejecutar:
 
+### `npm install`
+
+para instalar las dependencias.\
+
+
 ### `npm start`
 
 para correr la aplicacion en desarrollo.\
