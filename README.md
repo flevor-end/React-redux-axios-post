@@ -17,8 +17,6 @@ Empaqueta correctamente React en modo de producción y optimiza la compilación 
 La compilación se minimiza y los nombres de archivo incluyen los hash.\
 ¡La aplicación está lista para ser implementada!
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 
